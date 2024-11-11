@@ -3,7 +3,7 @@ Las protagonistas femeninas han cambiado mucho desde los años 80, y no solo por
 
 Al principio, cuando el aspecto de los juegos era apenas un puñado de píxeles, los gráficos eran esquemáticos y conceptuales, sin figuras humanoides. La primera distinción de género entre personajes llegó en 1981, con la aparición de Ms. Pac-Man, que era un Pac-Man con un lazo, labios pintados y marcadas pestañas, y Donkey Kong, en el que un fontanero bigotudo rescataba a su novia Pauline de las garras de un mono gigantesco, introduciendo en los videojuegos uno de los clichés heredados de la literatura: la doncella en peligro. 
 
-![dk]("C:\Users\Diego\Downloads\1.jpg")
+![dk](https://mediamaster.vandal.net/m/5-2020/202051017423833_1.jpg)
 
 El propio Shigeru Miyamoto, creador de series como Super Mario Bros. o The Legend of Zelda, dio una explicación en el transcurso de una entrevista concedida en 2013 a Kotaku de por qué los primeros videojuegos eran, quitando alguna excepción, masculinos. “Cuando creamos el primer Donkey Kong, un juego para recreativas, las chicas no frecuentaban los recreativos, así que ni pensamos en hacer un personaje jugable pensando en chicas”, admitió el diseñador de Nintendo,
 
